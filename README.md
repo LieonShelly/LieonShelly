@@ -1,5 +1,5 @@
 ## Hi there 👋
-- I'am setting up now.wait me a second
+- I'am setting up now. wait me a second
 - A whole amazing page is comming
 
 <!--
