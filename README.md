@@ -1,19 +1,18 @@
-## About Me
+# About Me
 
-I am Renjun Li, a Senior Software Consultant at ThoughtWorks, with 9 years of professional experience in iOS application development. My expertise spans Swift and Objective-C, with a strong background in large-scale iOS development, architecture design, performance optimization, and cross-functional team collaboration.
+Renjun Li is a **Senior Software Consultant at ThoughtWorks**, with **9 years of professional experience in iOS application development**. His expertise spans **Swift** and **Objective-C**, with a strong background in **large-scale iOS development, architecture design, performance optimization, and cross-functional team collaboration**.
 
-In the Porsche App project, I served as the iOS Lead, managing the Home Charging team and driving critical technical decisions. I collaborated closely with the German development team to ensure the successful delivery of high-quality features. In the SC Mobile project, I led the core iOS feature development team, where I worked on multi-factor authentication, notification systems, and configuration management, while also optimizing the build process to enhance performance and user experience. In addition, I contributed to the Chinese translation of iOS Development at Scale, further deepening my understanding of best practices for enterprise-level iOS development.
+In the **Porsche App** project, he served as the **iOS Lead**, managing the Home Charging team and driving critical technical decisions. He collaborated closely with the German development team to ensure the successful delivery of high-quality features. In the **SC Mobile** project, he led the core iOS feature development team, working on **multi-factor authentication, notification systems, and configuration management**, while optimizing the build process to enhance performance and user experience. He also contributed to the Chinese translation of *iOS Development at Scale*, further deepening his understanding of best practices for enterprise-level iOS development.
 
-Beyond enterprise solutions, I also have experience in C++ image rendering and audio/video processing. I previously led the development of photo and video editing applications at Camera360, several of which were featured on the App Store and attracted hundreds of thousands of users.
+Beyond enterprise solutions, Renjun has experience in **C++ image rendering** and **audio/video processing**. He previously led the development of photo and video editing applications at **Camera360**, several of which were featured on the App Store and attracted **hundreds of thousands of users**.
 
-I am proficient in CI/CD automation tools such as Fastlane, GitHub Actions, and Jenkins, and I specialize in Clean Architecture, TDD, and modular development. I am also experienced with agile methodologies and OKR-driven team management.
+He is proficient in **CI/CD automation tools** such as Fastlane, GitHub Actions, and Jenkins, and specializes in **Clean Architecture, TDD, and modular development**. He is also experienced with **agile methodologies** and **OKR-driven team management**.
 
-My professional focus is on improving both technical quality and team efficiency, while consistently delivering robust and scalable iOS solutions for global clients.
+Renjun focuses on improving both **technical quality** and **team efficiency**, consistently delivering **robust and scalable iOS solutions** for global clients.
 
+---
 
-
-## Fetured Work
-
+# Featured Work
 
 <a href="https://apps.apple.com/cn/app/保时捷/id1492218590" target="_blank">
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/d6/89/c9d689eb-c236-bdac-2dcd-e7d2fd1c6872/default-0-0-1x_U007ephone-0-1-85-220.png/246x0w.webp" alt="Porsche App" style="border-radius: 12px; width:200px;"/>
@@ -31,10 +30,6 @@ My professional focus is on improving both technical quality and team efficiency
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/ff/69/ccff69d4-0b68-1ced-f78c-0b54e15d9bf1/AppIcon-1x_U007epad-0-11-0-85-220-0.png/246x0w.webp" alt="SC Mobile App" style="border-radius: 12px; width:200px;"/>
 </a>
 
-
-
 <a href="https://item.jd.com/10137611955092.html" target="_blank">
   <img src="https://img12.360buyimg.com/n1/s720x720_jfs/t1/268175/25/19930/81197/67af1c55F8586e6df/a76506ecb47b4701.jpg" alt="大规模iOS开发" style="border-radius: 12px; width:200px;"/>
 </a>
-
-
