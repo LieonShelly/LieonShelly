@@ -1,10 +1,11 @@
+About Me
 
-Hi, I’m Renjun Li. I have 9 years of experience in iOS app development and currently work as a Senior Software Consultant at ThoughtWorks. My main focus is managing and developing iOS projects for international clients. I’m skilled in Swift and Objective-C and have deep experience in large-scale iOS development, architecture design, performance optimization, and team collaboration.
+I am Renjun Li, a Senior Software Consultant at ThoughtWorks, with 9 years of professional experience in iOS application development. My expertise spans Swift and Objective-C, with a strong background in large-scale iOS development, architecture design, performance optimization, and cross-functional team collaboration.
 
-In the **Porsche App** project, I worked as the **iOS Lead**, managing the home charging team and making key technical decisions. I collaborated closely with the German team to ensure high-quality delivery. In the **SC Mobile** project, I led core app iOS team feature development, including **MFA authentication, notification systems, and configuration management**. I also optimized the build process to improve performance and user experience. Besides that, I contributed to the **translation of the book "iOS Development at Scale,"** where I studied best practices for large-scale iOS development.
+In the Porsche App project, I served as the iOS Lead, managing the Home Charging team and driving critical technical decisions. I collaborated closely with the German development team to ensure the successful delivery of high-quality features. In the SC Mobile project, I led the core iOS feature development team, where I worked on multi-factor authentication, notification systems, and configuration management, while also optimizing the build process to enhance performance and user experience. In addition, I contributed to the Chinese translation of iOS Development at Scale, further deepening my understanding of best practices for enterprise-level iOS development.
 
-Beyond enterprise projects, I also have experience in **C++ image rendering and audio/video processing**. I previously led the development of **photo editing and video editing apps** under **Camera360**, which were featured on the App Store and gained hundreds of thousands of users.
+Beyond enterprise solutions, I also have experience in C++ image rendering and audio/video processing. I previously led the development of photo and video editing applications at Camera360, several of which were featured on the App Store and attracted hundreds of thousands of users.
 
-I’m also familiar with **CI/CD automation tools** like **Fastlane, GitHub Actions, and Jenkins**. I specialize in **Clean Architecture, TDD, and modular development** and have experience with **agile methodologies and OKR management**. 
+I am proficient in CI/CD automation tools such as Fastlane, GitHub Actions, and Jenkins, and I specialize in Clean Architecture, TDD, and modular development. I am also experienced with agile methodologies and OKR-driven team management.
 
-So, improving both technical quality and team efficiency is something I always strive for.
+My professional focus is on improving both technical quality and team efficiency, while consistently delivering robust and scalable iOS solutions for global clients.
