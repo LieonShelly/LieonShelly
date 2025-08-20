@@ -30,6 +30,6 @@ Renjun focuses on improving both **technical quality** and **team efficiency**, 
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/f0/36/d4/f036d482-a0c7-666e-5c60-43e012ad9af0/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.webp" alt="沙拉视频" style="border-radius: 12px; width:200px;"/>
 </a>
 
-<a href="https://apps.apple.com/cn/app/mix2%E4%BA%BA%E5%83%8F%E5%A4%A7%E5%B8%88-ai%E7%BE%8E%E9%A2%9C%E4%BF%AE%E5%9B%BE%E7%A5%9E%E5%99%A8-%E7%BE%8E%E5%9B%BE%E5%86%99%E7%9C%9Fp%E5%9B%BE%E8%BD%AF%E4%BB%B6/id1465889853" target="_blank">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/d5/42/e0d54213-e98a-4c5c-47d4-41bc16597997/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/246x0w.webp" alt="人像大师" style="border-radius: 12px; width:200px;"/>
+<a href="https://apps.apple.com/cn/app/mix滤镜大师-创意无限的图像编辑与海报定制/id913947918" target="_blank">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/96/2c/90962c84-200e-80cf-80ea-56030eea53ac/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/246x0w.webp" alt="Mix滤镜大师" style="border-radius: 12px; width:200px;"/>
 </a>
