@@ -26,7 +26,7 @@ Renjun focuses on improving both **technical quality** and **team efficiency**, 
 
 | Cover | Description |
 |------|------|
-| <img src="https://img12.360buyimg.com/n1/s720x720_jfs/t1/268175/25/19930/81197/67af1c55F8586e6df/a76506ecb47b4701.jpg" alt="iOS Development at Scale" width="100" height="100"/> | [大规模iOS开发](https://item.jd.com/10137611955092.html) This book is the translated edition of "iOS Development At Scale." He participated in translating the second part of the book, covering application architecture and design patterns (10 chapters in total), published by Mechanical Industry Press in January 2025. |
+| <img src="https://img12.360buyimg.com/n1/s720x720_jfs/t1/268175/25/19930/81197/67af1c55F8586e6df/a76506ecb47b4701.jpg" alt="iOS Development at Scale" width="100" height="100"/> | [大规模iOS开发](https://item.jd.com/10137611955092.html) This book is the translated Chinese edition of [iOS Development At Scale](https://www.amazon.sg/iOS-Development-Scale-Architecture-Engineers/dp/1484294556). He participated in translating the second part of the book, covering application architecture and design patterns (10 chapters in total), published by Mechanical Industry Press in January 2025. |
 
 
 
