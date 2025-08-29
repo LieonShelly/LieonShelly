@@ -18,8 +18,8 @@ Renjun focuses on improving both **technical quality** and **team efficiency**, 
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/d6/89/c9d689eb-c236-bdac-2dcd-e7d2fd1c6872/default-0-0-1x_U007ephone-0-1-85-220.png/246x0w.webp" alt="Porsche App" style="border-radius: 12px; width:200px;"/>
 </a>
 
-<a href="https://apps.apple.com/sg/app/sc-mobile-hong-kong/id445795688" target="_blank">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/ff/69/ccff69d4-0b68-1ced-f78c-0b54e15d9bf1/AppIcon-1x_U007epad-0-11-0-85-220-0.png/246x0w.webp" alt="SC Mobile App" style="border-radius: 12px; width:200px;"/>
+<a href="https://apps.apple.com/sg/app/sc-mobile-singapore/id367337298?l=zh-Hans-CN" target="_blank">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/72/dd/5172ddf5-786a-996d-f9e4-3aa0c9e719ed/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x0w.webp" alt="SC Mobile App" style="border-radius: 12px; width:200px;"/>
 </a>
 
 
