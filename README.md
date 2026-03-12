@@ -1,6 +1,6 @@
 # About Me
 
-Renjun Li is a **Senior Software Consultant at ThoughtWorks**, with **9 years of professional experience in iOS application development**. His expertise spans **Swift** and **Objective-C**, with a strong background in **large-scale iOS development, architecture design, performance optimization, and cross-functional team collaboration**.
+Renjun Li is a **Senior Software Consultant at ThoughtWorks**, with **10 years of professional experience in iOS application development**. His expertise spans **Swift** and **Objective-C**, with a strong background in **large-scale iOS development, architecture design, performance optimization, and cross-functional team collaboration**.
 
 In the **Porsche App** project, he served as the **iOS Lead**, managing the Home Charging team and driving critical technical decisions. He collaborated closely with the German development team to ensure the successful delivery of high-quality features. In the **SC Mobile** project, he led the core iOS feature development team, working on **multi-factor authentication, notification systems, and configuration management**, while optimizing the build process to enhance performance and user experience. He also contributed to the Chinese translation of *iOS Development at Scale*, further deepening his understanding of best practices for enterprise-level iOS development.
 
