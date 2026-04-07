@@ -15,9 +15,9 @@
 - **Flutter** deep dives (rendering pipelines, platform channels).
 - Connecting mobile interfaces with decentralized backend systems and **AI Agent Skills (MCP)**.
 
----
 **Core Stack:** Swift, Flutter, Dart, SwiftUI, C++, Metal, CI/CD  
 **Workflow:** Remote-ready, Cross-border team leadership, Agile, OKR-driven
+
 
 # iOS App
 
