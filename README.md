@@ -7,7 +7,7 @@
 - **Scale Global Applications:** Architected the Porsche App Framework using a 130+ module Monorepo, solving complex cross-regional dependency issues.
 - **Master Cross-Platform:** Rebuilt IKEA China's mobile presence using Flutter (Clean Architecture + BloC), driving high conversion rates.
 - **Secure Financial Systems:** Led the core iOS team for Standard Chartered's SC Mobile, building robust MFA and notification systems for 420k+ users.
-- **Push Visual Boundaries:** Developed core C++/Metal/OpenGL rendering engines for App Store-featured photo/video editing tools.
+- **Push Visual Boundaries:** Developed core C++/Metal rendering engines for App Store-featured photo/video editing tools.
 - **Translate Knowledge:** Co-translated *iOS Development at Scale* (《大规模iOS开发》) into Chinese.
 
 ### 🔭 Currently Exploring
