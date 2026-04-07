@@ -1,16 +1,23 @@
-# About Me
+# Renjun Li 👨‍💻
+**Crafting Global Super Apps | iOS Lead | Flutter Engineer**
 
-Renjun Li is a **Senior Software Consultant at ThoughtWorks**, with **10 years of professional experience in iOS application development**. His expertise spans **Swift** and **Objective-C**, with a strong background in **large-scale iOS development, architecture design, performance optimization, and cross-functional team collaboration**.
+> 10 years bridging the gap between elegant UI/UX and complex, high-performance underlying architectures. Advocate for Clean Code, TDD, and modular design.
 
-In the **Porsche App** project, he served as the **iOS Lead**, managing the Home Charging team and driving critical technical decisions. He collaborated closely with the German development team to ensure the successful delivery of high-quality features. In the **SC Mobile** project, he led the core iOS feature development team, working on **multi-factor authentication, notification systems, and configuration management**, while optimizing the build process to enhance performance and user experience. He also contributed to the Chinese translation of *iOS Development at Scale*, further deepening his understanding of best practices for enterprise-level iOS development.
+### 💡 What I Do
+- **Scale Global Applications:** Architected the Porsche App Framework using a 130+ module Monorepo, solving complex cross-regional dependency issues.
+- **Master Cross-Platform:** Rebuilt IKEA China's mobile presence using Flutter (Clean Architecture + BloC), driving high conversion rates.
+- **Secure Financial Systems:** Led the core iOS team for Standard Chartered's SC Mobile, building robust MFA and notification systems for 420k+ users.
+- **Push Visual Boundaries:** Developed core C++/Metal/OpenGL rendering engines for App Store-featured photo/video editing tools.
+- **Translate Knowledge:** Co-translated *iOS Development at Scale* (《大规模iOS开发》) into Chinese.
 
-Beyond enterprise solutions, Renjun has experience in **C++ image rendering** and **audio/video processing**. He previously led the development of photo and video editing applications at **Camera360**, several of which were featured on the App Store and attracted **hundreds of thousands of users**.
-
-He is proficient in **CI/CD automation tools** such as Fastlane, GitHub Actions, and Jenkins, and specializes in **Clean Architecture, TDD, and modular development**. He is also experienced with **agile methodologies** and **OKR-driven team management**.
-
-Renjun focuses on improving both **technical quality** and **team efficiency**, consistently delivering **robust and scalable iOS solutions** for global clients.
+### 🔭 Currently Exploring
+- Advanced **SwiftUI** patterns and dynamic theme switching systems.
+- **Flutter** deep dives (rendering pipelines, platform channels).
+- Connecting mobile interfaces with decentralized backend systems and **AI Agent Skills (MCP)**.
 
 ---
+**Core Stack:** Swift, Flutter, Dart, SwiftUI, C++, Metal, Tuist, CI/CD  
+**Workflow:** Remote-ready, Cross-border team leadership, Agile, OKR-driven
 
 # iOS App
 
